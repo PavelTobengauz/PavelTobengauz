@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pavel Tobengauz, the Director of the Analytics department at a small Russian company with 5 years of experience on this position. I'm currently seeking for a job opportunities in Germany. 
+I'm Pavel Tobengauz, the Director of the Analytics department at a small Russian company with 5 years of experience on this position. I'm currently seeking for a job opportunities in Germany as a Data Analyst or a Product Analyst.
 
 To enhance my hard skills, I recently completed the Data Analysis Professional Training Course at Practicum by Yandex, totalling 350 hours. I would like to share some of the projects I successfully completed during the course. Please, check [the repository](https://github.com/PavelTobengauz/yandex_practicum_projects) with some my projects.
 
