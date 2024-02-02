@@ -3,7 +3,7 @@
 I'm Pavel Tobengauz, the Data Analyst. I have over 10 years of experience in media and analytics. I started a career as a media researcher and grew up to the position of analytics team head. Over the last 5 years, my focus has been on data analytics within the analytical department of a media audit & consulting company working in Russia & CIS markets.
 Confident user of Python, SQL, MS Excel, Tableau.
 
-Please, check [the repository](https://github.com/PavelTobengauz/yandex_practicum_projects) with some of my projects.
+Please, check [the repository](https://github.com/PavelTobengauz/Projects) with some of my projects.
 
 <!--
 **PavelTobengauz/PavelTobengauz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
