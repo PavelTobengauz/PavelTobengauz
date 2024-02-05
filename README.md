@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Pavel Tobengauz, the Data Analyst. I have over 10 years of experience in media and analytics. I started a career as a media researcher and grew up to the position of analytics team head. Over the last 5 years, my focus has been on data analytics within the analytical department of a media audit & consulting company working in Russia & CIS markets.
-Confident user of Python, SQL, MS Excel, Tableau.
+I'm Pavel Tobengauz, the Data Analyst. Data Analyst. Experience: 5+ years with data processing in Python, developing KPIs and presenting reports to different stakeholders, 2 years with PostgreSQL (creating databases and tables, establishing relationships between tables, loading and extracting data through SQL Shell and Python), 1 year with dashboards in Power BI and Tableau, 10+ years with MS Excel.
 
 Please, check [the repository](https://github.com/PavelTobengauz/Projects) with some of my projects.
 
