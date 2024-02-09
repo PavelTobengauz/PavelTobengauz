@@ -2,7 +2,7 @@
 
 I'm Pavel Tobengauz, the Data Analyst. Experience: 5+ years with data processing in Python, developing KPIs and presenting reports to different stakeholders, 2 years with PostgreSQL (creating databases and tables, establishing relationships between tables, loading and extracting data through SQL Shell and Python), 1 year with dashboards in Power BI and Tableau, 10+ years with MS Excel.
 
-Please, check [the repository](https://github.com/PavelTobengauz/Projects) with some of my projects.
+Please, check [the repository](https://github.com/PavelTobengauz/Analytical_Projects) with some of my projects.
 
 <!--
 **PavelTobengauz/PavelTobengauz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
