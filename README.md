@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pavel Tobengauz, the Data Analyst. Experience: 5+ years with data processing in Python, developing KPIs and presenting reports to different stakeholders, 2+ years with PostgreSQL (creating databases and tables, establishing relationships between tables, loading and extracting data through SQL Shell and Python), 1+ year with dashboards in Power BI and Tableau, 10+ years with MS Excel.
+I'm Pavel Tobengauz, the Data Analyst. Experienced in developing metrics, creating analytical reports, providing actionable insights and presenting them to stakeholders. Proficient in data handling in Python, creating databases, loading and extracting data in PostgreSQL, making calculations in MS Excel. Have experience with A/B tests, and creating dashboards in Power BI and Tableau.
 
 Please, check [the repository](https://github.com/PavelTobengauz/Analytical_Projects) with some of my projects.
 
